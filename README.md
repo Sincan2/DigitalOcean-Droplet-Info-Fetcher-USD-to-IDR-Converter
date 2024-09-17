@@ -17,8 +17,8 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Sincan2/droplet-info-fetcher.git
-cd droplet-info-fetcher
+git clone https://github.com/Sincan2/DigitalOcean-Droplet-Info-Fetcher-USD-to-IDR-Converter.git
+cd DigitalOcean-Droplet-Info-Fetcher-USD-to-IDR-Converter
 ```
 
 ### 2. Install Dependencies
