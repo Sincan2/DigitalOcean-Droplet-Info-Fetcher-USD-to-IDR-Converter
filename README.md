@@ -1,4 +1,3 @@
-```md
 # 🌐 DigitalOcean Droplet Info Fetcher & USD to IDR Converter
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Selenium](https://img.shields.io/badge/Selenium-Webdriver-green) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-API-blue) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -20,7 +19,6 @@
 git clone https://github.com/Sincan2/DigitalOcean-Droplet-Info-Fetcher-USD-to-IDR-Converter.git
 cd DigitalOcean-Droplet-Info-Fetcher-USD-to-IDR-Converter
 ```
-
 ### 2. Install Dependencies
 
 Pastikan Anda menggunakan Python versi 3.9 atau lebih baru dan install dependencies yang diperlukan.
